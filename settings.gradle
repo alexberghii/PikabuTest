@@ -1,0 +1,7 @@
+include ':commons'
+include ':navigation'
+include ':features:story'
+include ':features:home'
+include ':core'
+include ':app'
+rootProject.name = "PikabuTest"

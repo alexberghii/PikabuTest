@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="network_error">Check your internet connection and swipe down to try again</string>
+    <string name="empty_favorites">Your favorites list is empty</string>
+    <string name="save">Save to favorites</string>
+    <string name="remove">Remove from favorites</string>
+</resources>

@@ -1,0 +1,10 @@
+apply plugin: 'com.android.library'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+
+dependencies {
+    implementation "androidx.appcompat:appcompat:$supportLibraryVersion"
+    implementation "androidx.constraintlayout:constraintlayout:$constraitLayoutVersion"
+    implementation "androidx.lifecycle:lifecycle-extensions:$lifecycleVersion"
+    implementation "com.google.android.material:material:$materialVersion"
+}

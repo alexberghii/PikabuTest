@@ -1,0 +1,15 @@
+apply plugin: 'com.android.library'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+
+dependencies {
+    implementation project(':core')
+    implementation project(':navigation')
+
+    implementation "androidx.appcompat:appcompat:$supportLibraryVersion"
+    implementation "androidx.constraintlayout:constraintlayout:$constraitLayoutVersion"
+    implementation "com.google.android.material:material:$materialVersion"
+    implementation "androidx.navigation:navigation-fragment-ktx:$navigationVersion"
+    implementation "androidx.navigation:navigation-ui-ktx:$navigationVersion"
+    implementation "androidx.paging:paging-runtime-ktx:$pagingVersion"
+}

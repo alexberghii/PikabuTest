@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PikabuTest.iml" filepath="$PROJECT_DIR$/.idea/modules/PikabuTest.iml" group="PikabuTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="PikabuTest/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commons/commons.iml" filepath="$PROJECT_DIR$/.idea/modules/commons/commons.iml" group="PikabuTest/commons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core.iml" group="PikabuTest/core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/features.iml" filepath="$PROJECT_DIR$/.idea/modules/features/features.iml" group="PikabuTest/features" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/home/home.iml" filepath="$PROJECT_DIR$/.idea/modules/features/home/home.iml" group="PikabuTest/features/home" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/navigation/navigation.iml" filepath="$PROJECT_DIR$/.idea/modules/navigation/navigation.iml" group="PikabuTest/navigation" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/story/story.iml" filepath="$PROJECT_DIR$/.idea/modules/features/story/story.iml" group="PikabuTest/features/story" />
+    </modules>
+  </component>
+</project>
